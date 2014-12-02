@@ -1,0 +1,21 @@
+body {
+	background-color: #C5EFF7;
+	font-family: Noto Sans, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.holdingtext {
+	background-color: #59ABE3;
+	display: block;
+	font-size: 48pt;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+	position: relative;
+	text-align: center;
+}
+
+.comingsoon {
+	font-size: 24pt;
+}
