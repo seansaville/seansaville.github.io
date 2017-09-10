@@ -67,12 +67,19 @@
       <section id="contact">
         <p>
           If you'd like to get in touch with me, then you can email me at
-          <a href="mailto:hi@seansaville.co.uk">hi@seansaville.co.uk</a>. Alternatively, hit me up
-          on <a href="http://twitter.com/seanmsaville">Twitter</a> or LinkedIn. A formal CV/resume
-          is available upon request.
+          <strong id="mail"></strong>. Alternatively, hit me up
+          on <a href="http://twitter.com/seanmsaville">Twitter</a><!-- or LinkedIn-->. A formal
+          CV/resume is available upon request.
         </p>
       </section>
     </main>
+
+    <script type="text/javascript">
+      var user = "&#104;&#105;&#064;";
+      var domain = "&#115;&#101;&#097;&#110;&#115;&#097;&#118;&#105;&#108;&#108;&#101;&#046;&#099;&#111;&#046;&#117;&#107;";
+      var element = document.getElementById("mail")
+      element.innerHTML = "<a href='mailto:" + user + domain + "'>" + user + domain + "</a>";
+    </script>
 
   </body>
 </html>

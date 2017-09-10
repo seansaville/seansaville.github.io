@@ -1,3 +1,3 @@
-#seansaville.github.io
+# seansaville.github.io
 
 My personal website.
