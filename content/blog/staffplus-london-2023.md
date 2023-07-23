@@ -70,9 +70,8 @@ This also fed nicely into the very final talk of the conference...
 
 ## Setting goals as a Staff+ Engineer
 
-The previous talk I mentioned focused on weekly planning - this talk from
-[Sabrina Leandro](https://twitter.com/saleandro) covered planning at the macro level - i.e. "what I'm doing this
-quarter" through to "what I'm doing this year".
+The previous talk focused on weekly planning - this talk from [Sabrina Leandro](https://twitter.com/saleandro) covered
+planning at the macro level - i.e. "what I'm doing this quarter" through to "what I'm doing this year".
 
 I really liked Sabrina's methodical approach to laying out her goals - creating a spreadsheet detailing what she was
 committing to, the expected impact, the relative priority, and how it tied in to her company's career ladder. The actual
