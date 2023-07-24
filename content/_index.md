@@ -7,5 +7,4 @@ Previously I worked at Ensoft (now [Cisco](https://blogs.cisco.com/news/cisco-an
 operating systems and software for carrier-class routers. Even more previously, I studied Computer Science at
 [Cambridge](https://www.cst.cam.ac.uk).
 
-If you'd like to get in touch with me, then you can email me at hi@seansaville.co.uk. A formal CV/resume is available
-on request.
+If you'd like to get in touch with me, then you can email me at hi@seansaville.co.uk.
